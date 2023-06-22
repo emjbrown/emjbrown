@@ -1,6 +1,5 @@
 ### Hi, I'm Emily 👋
 
-I'm a MTL-based frontend web developer actively deepening my knowledge of JS and web accessibility practices
+MTL-based frontend web developer actively learning JS and web accessibility
 
-Reach me at [emi.jbrown@gmail.com](emi.jbrown@gmail.com)
-Pronouns: she/her
+Say hi at [emi.jbrown@gmail.com](emi.jbrown@gmail.com) ✨
